@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/rich/learning/python/w3python",
+      "program": "/Users/rich/learning/python/w3python/build/Debug/outDebug"
+    }
+  ]
+}
