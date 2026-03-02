@@ -66,3 +66,9 @@ def your_names(fname,mname,lname):
 
 person={"fname":"Rich","mname":"King","lname":"none"}
 your_names(**person)
+
+
+
+
+
+print("\n=======================decorators=====================\n")
